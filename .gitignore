@@ -29,6 +29,3 @@ htmlcov/
 # Arquivos do sistema operacional
 .DS_Store
 Thumbs.db
-
-# Jupyter, se usar em algum momento
-.ipynb_checkpoints/
