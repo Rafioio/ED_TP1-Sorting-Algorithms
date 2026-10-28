@@ -7,10 +7,10 @@ class Bubblesort(Sort):
     def sort(self, data):
         n = len(data)
         for i in range(n):
-            troca = False
-            for j in range(0, n - i - 1):
+            trocou = False
+            for j in range(n - i - 1):
                 if self.menor(data[j + 1], data[j]):
                     self.trocar(data, j, j + 1)
-                    troca = True
-            if not troca:
+                    trocou = True
+            if not trocou:
                 break
