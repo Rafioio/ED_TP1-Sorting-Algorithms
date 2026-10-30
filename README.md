@@ -4,12 +4,9 @@ Implementação, instrumentação e comparação experimental de algoritmos de o
 
 Cada algoritmo conta **comparações** e **movimentações** de elementos, além do **tempo** de execução, e o projeto compara os resultados medidos com a análise teórica de complexidade.
 
-## Arquivos
+## Arquivo
 
-| Arquivo | Conteúdo |
-|---|---|
-| `TP_Algoritmos_de_Ordenacao.ipynb` | Implementações, testes de corretude, experimentos (E1 a E6), gráficos e tabelas |
-| `TP_Documentacao.ipynb` | Relatório: introdução, fundamentação teórica, metodologia, resultados, análise e conclusões |
+Todo o trabalho fica em `TP_Algoritmos_de_Ordenacao.ipynb`: implementações, testes de corretude, análise teórica, experimentos (E1 a E6) com gráficos e tabelas, discussão e, na Parte H, o relatório (introdução, fundamentação teórica, metodologia, resultados, análise crítica e conclusões). O notebook está salvo com as saídas da execução completa.
 
 ## Algoritmos implementados
 
